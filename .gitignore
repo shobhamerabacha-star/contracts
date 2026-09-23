@@ -19,3 +19,5 @@ push-github-issues.sh
 issue.md
 pr.md
 fix.md
+config.bat
+node_modules
